@@ -1,0 +1,1 @@
+MicroROS Pico-SDK project based from the example of [Video-Playlist](https://www.youtube.com/watch?v=2dGCcT9rxso&list=PLspDyukWAtRU6CExohVFg07T98ssxdqy1), made for a servo2040 to control 18 servos from a hexapod running ROS2.
